@@ -26,5 +26,5 @@
 - 🚀 Selected work includes **BlackStorm**,  **WeCom / WeChat Work robots**, **Akamai 2.0 analysis and bypass research**, and **vmdevirt**.
 - 🤖 Currently moving toward AI red teaming while continuing research in JavaScript deobfuscation and VM devirtualization.
 - 🌐 Currently building [ggrpa.com](https://ggrpa.com).
-- 💼 Available for reverse engineering, web scraping / crawler engineering, and AKM2/3-related projects.
+- 💼 Available for PC software, mobile app, and web reverse engineering, as well as web scraping / crawler engineering and AKM2/3-related projects.
 - 📫 Reach me on X / Twitter: [@perfectplug1](https://x.com/perfectplug1).
